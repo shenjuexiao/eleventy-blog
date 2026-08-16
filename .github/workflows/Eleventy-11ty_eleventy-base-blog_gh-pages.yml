@@ -1,3 +1,10 @@
+# Eleventy-11ty_eleventy-base-blog_gh-pages.yml
+# github.com/shenjuexiao
+# 20260816
+
+# github.com/11ty/eleventy-base-blog
+# github.com/11ty/eleventy-base-blog/blob/main/.github/workflows/gh-pages.yml.sample
+
 # If you’d like to deploy this project to GitHub pages:
 #
 # 1. Remove the .sample file extension from this file so it ends with `.yml`
@@ -18,6 +25,7 @@
 #
 # 4. Commit this new `gh-pages.yml` file and push it upstream to GitHub
 
+# .github/workflows/Eleventy-11ty_eleventy-base-blog_gh-pages.yml
 name: Deploy to GitHub Pages
 
 on:
